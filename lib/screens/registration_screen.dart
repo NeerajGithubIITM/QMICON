@@ -1,0 +1,1 @@
+// The screen which collects details of a new user when he/she first signs up
