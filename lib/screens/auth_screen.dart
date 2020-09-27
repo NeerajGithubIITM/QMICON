@@ -163,6 +163,7 @@ class _AuthScreenState extends State<AuthScreen> {
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
                   CircleAvatar(
+                    backgroundImage: AssetImage('assets/images/fb-logo.jpg'),
                     radius: 30,
                     backgroundColor: Colors.white,
                   ),
@@ -170,6 +171,7 @@ class _AuthScreenState extends State<AuthScreen> {
                     width: 20,
                   ),
                   CircleAvatar(
+                    backgroundImage: AssetImage('assets/images/google-logo.jpg'),
                     radius: 30,
                     backgroundColor: Colors.white,
                   ),
